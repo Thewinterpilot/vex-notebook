@@ -8,8 +8,8 @@
 *! in and out of vex*
 *! add links*
 
-##### Feasibility:
-*feasibility analysis*
+##### Feasibility analysis:
+*how feasible are solutions s-a through s-z in categories c-a through c-z?*
 
 ##### Sketch chosen solution:
 *draw, take picture, loop* or *drawing tablet*

@@ -1,4 +1,4 @@
-# tournaments 
+# tournaments[^1]
 - keep notes on each match, how it went etc.
 - keep scores
 - make a post tourney review
@@ -26,3 +26,5 @@
 - daily notes
 - directories for various things with mechanisms
 - 
+
+[^1]: how many are there?
