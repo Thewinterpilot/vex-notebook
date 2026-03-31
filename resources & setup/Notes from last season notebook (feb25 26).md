@@ -12,7 +12,7 @@
 - sketch
 - build
 - test (loop!!)
-- keep [[Issues]] note
+- keep [[Push Back bot takeaways]] note
 # general format
 - CANVASES
 - vex site has a template

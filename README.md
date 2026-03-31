@@ -1,3 +1,6 @@
+___
+# This is an incomplete system, don't use it yet
+___
 # Why obsidian? why git? etc.
 ##### The basics:
 - why git?: it's the best place I've ever found for storing, editing and collaborating on many concurrent text files. 
@@ -10,13 +13,13 @@
 ___
 # How to use obsidian Markdown
 ### Markdown syntax examples: [^1]
- - Heading: `# heading` (the space is important, and for smaller headings add more #'s)
+- Heading: `# heading` (the space is important, and for smaller headings add more #'s)
 - Italics: `*text*` or `_text_`
 - bold: `**Bold**` or `__Bold__`
 - line breaks: `___` (three underscores) or `---` (three hyphens) 
 - codeblocks(inline) are surrounded with single backticks: \``print("Hello world!")`\`
 - codeblocks (multi line) are surrounded with triple backticks: \`\`\` `codeblock`\`\`\`
-- one can use characters that are part of markdown syntax without them being interpreted as markdown syntax by preceding them with a `\` backslash [^4]
+- one can use characters that are part of markdown syntax without them being interpreted as markdown syntax by -preceding them with a `\` backslash [^4]
 - links(on their own) just type the link: http://rotatingsandwitches.com
 - links with descriptions or inline: \[link name](https://url.example.comk)
 
@@ -39,6 +42,6 @@ ___
 
 [^2]:  INCLUDE PICTURES PLEASE
 
-[^3]: there is also the global [[Issues]] note, which should have a checklist of solved and unsolved issues.
+[^3]: there is also the global [[Push Back bot takeaways]] note, which should have a checklist of solved and unsolved issues.
 
 [^4]: syntax: `\{mod-character}`

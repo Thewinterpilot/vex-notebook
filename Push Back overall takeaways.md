@@ -1,0 +1,41 @@
+worked well:
+- screw joints
+- NZ intake
+- switchback
+- linear pneumatics
+- standoff license plate mounts
+- 1\*1 L channel
+- geared drivetrain
+- dual control
+- lasercut plastic
+
+needs work:
+- drivetrain stiffness
+- component replacability + accessibility
+- wheel-mounted gears oversized
+- building well within size restrictions
+- more sensors (inertial, colour)
+- cad programs (not onshape)
+- regularly replace fragile components
+	- chains
+	- rubber bands
+	- high-stress motors
+	- exposed metal
+- weight
+	- oversized components (long screws, wide nylocks etc)
+	- overkill components (steel instead of nylon etc)
+- notebook
+	- checking back in on extant pages (how things worked)
+	- bios
+	- referencing design process
+	- game overview
+	- more of everything
+		- testing
+		- auton maps
+		- diagrams
+		- photos
+- code
+	- comments
+	- explanation of process
+	- every version ever saved and visible
+	- auton framework
