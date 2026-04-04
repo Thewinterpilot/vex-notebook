@@ -4,8 +4,8 @@ ___
 # Why obsidian? why git? etc.
 ##### The basics:
 - why git?: it's the best place I've ever found for storing, editing and collaborating on many concurrent text files. 
-- why obsidian?: it's a really well made organizational system for plaintext markdown. 
-- why markdown?: plaintext. it's just human readable plaintext with rich text if you feel like it. and plaintext is forever. 
+- why obsidian?: it's a really well made organization system for plaintext markdown. 
+- why markdown?: plaintext. it's a rich text format that stores as human readable plaintext. and plaintext is forever. 
 ##### design sources && Inspo:
 - [this wonderful video by NoBoilerplate. among others of his](https://www.youtube.com/watch?v=WgV6M1LyfNY)
 - [my own personal notes system](https://youtu.be/d2X-BHvlcTE?si=ljqVknkvESOF2iky)
@@ -21,7 +21,7 @@ ___
 - codeblocks (multi line) are surrounded with triple backticks: \`\`\` `codeblock`\`\`\`
 - one can use characters that are part of markdown syntax without them being interpreted as markdown syntax by -preceding them with a `\` backslash [^4]
 - links(on their own) just type the link: http://rotatingsandwitches.com
-- links with descriptions or inline: \[link name](https://url.example.comk)
+- links with descriptions or inline: \[link name](https\:\/\/url.example.com)
 
 ___
 # Directories and best practice:
@@ -32,7 +32,7 @@ ___
 
 ___
 # Issue Tracking[^2],[^3]
-each issue should have a note in the /issues directory
+each issue should have a note in the [/0.2 issues](./0.2\ issues) directory 
 ![[Issue Template]]
 
 ___
@@ -44,4 +44,5 @@ ___
 
 [^3]: there is also the global [[Push Back bot takeaways]] note, which should have a checklist of solved and unsolved issues.
 
-[^4]: syntax: `\{mod-character}`
+[^4]: syntax: `\{mod-character}` 
+

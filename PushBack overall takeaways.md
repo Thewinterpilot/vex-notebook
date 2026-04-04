@@ -35,7 +35,7 @@ needs work:
 		- diagrams
 		- photos
 - code
-	- comments
-	- explanation of process
-	- every version ever saved and visible
+	- comments # !!
+	- explanation of process # git commits, robust comments
+	- every version ever saved and visible # git
 	- auton framework
