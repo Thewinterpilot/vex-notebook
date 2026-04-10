@@ -24,9 +24,9 @@ ___
 - links with descriptions or inline: \[link name](https\:\/\/url.example.com)
 ___
 # How to use this Notebook:
-- a bit more theory: This notebook is structured around issue pages in the /1.0 issues directory
+- a bit more theory: This notebook is structured around issue pages in the /1.0 issues directory [^5]
 	- meticulously keeping track of issues faced, how they're approached and solved is very important not only for the notebook points but also for future reference (have you ever wondered why something was approached the way it was? well we should know why if we do it right)
-- most of the files in this vault should be issue notes.
+- There is a Todo file (I recommend keeping this open in a side panel)
 - 
 ___
 # Directories:
@@ -41,7 +41,6 @@ ___
 	- what does it do (in simple terms)
 	- why does it do it like that?
 	- what are two alternate ways to do the same and why don't they work?
-	-   
 ___
 # Sketches:
 - please send me ideas for this, idk how it will work
@@ -62,3 +61,4 @@ ___
 
 [^4]: syntax: `\{mod-character}` 
 
+[^5]: I expect the large majority of the files here will be issue notes
