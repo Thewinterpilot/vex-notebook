@@ -22,4 +22,3 @@
 *test solution in real game conditions (or something like them*
 
 ___
-## Footnotes:
