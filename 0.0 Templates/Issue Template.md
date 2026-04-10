@@ -16,3 +16,6 @@
 
 ##### Implement:
 *this is just engineering design process*
+
+##### Test:
+*test solution in real game conditions (or something like them*

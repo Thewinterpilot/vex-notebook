@@ -7,11 +7,11 @@ worked well:
 - 1\*1 L channel
 - geared drivetrain
 - dual control
-- lasercut plastic
+- laser cut plastic
 
 needs work:
 - drivetrain stiffness
-- component replacability + accessibility
+- component replaceability + accessibility
 - wheel-mounted gears oversized
 - building well within size restrictions
 - more sensors (inertial, colour)
@@ -26,7 +26,7 @@ needs work:
 	- overkill components (steel instead of nylon etc)
 - notebook
 	- checking back in on extant pages (how things worked)
-	- bios
+	- bios 
 	- referencing design process
 	- game overview
 	- more of everything

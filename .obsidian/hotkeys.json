@@ -50,5 +50,14 @@
       ],
       "key": "F"
     }
-  ]
+  ],
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "editor:follow-link": []
 }

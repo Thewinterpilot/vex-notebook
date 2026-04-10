@@ -24,11 +24,22 @@ ___
 - links with descriptions or inline: \[link name](https\:\/\/url.example.com)
 
 ___
-# Directories and best practice:
-### directories:
+# Directories:
 /templates: various templates for types of notes. 
 /issues: go to [[#Issue Tracking]] 
 /partsAndSystems: explanations and documentation of different systems [^2]
+___
+# How to document systems:
+- Take lots of pictures
+- sketch the basics of the system
+- answer the following:
+	- what does it do (in simple terms)
+	- why does it do it like that?
+	- what are two alternate ways to do the same and why don't they work?
+	-   
+___
+# Sketches:
+- please send me ideas for this, idk how it will work
 
 ___
 # Issue Tracking[^2],[^3]
