@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.0-Templates/Issue Template.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Issue Template"
+              "title": "README"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.0-Templates/Issue Template.md",
+                "file": "Todo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Issue Template"
+              "title": "Outline of Todo"
             }
           }
         ],
@@ -204,18 +204,19 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "2ab905c0931f059f",
+  "active": "579e3b06ddca529d",
   "lastOpenFiles": [
+    "gitignore",
+    "README.md",
+    "0.0-Templates/Issue Template.md",
+    "Todo.md",
     "0.1-Resources/useful Links.md",
     "0.1-Resources/PushBack overall takeaways.md",
     "0.1-Resources/Other notebooks.md",
     "0.1-Resources/Design documents from Vex.md",
     "0.1-Resources/Notes from last season notebook (feb25 26).md",
     "0.1-Resources/Akin.pdf",
-    "README.md",
-    "Todo.md",
     "What football will look like in the future.md",
-    "0.0-Templates/Issue Template.md",
     "1.0-Issues",
     "0.0-Images/Pasted image 20260225175210.png",
     "test1.canvas",
