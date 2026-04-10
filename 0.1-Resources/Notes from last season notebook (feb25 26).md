@@ -1,3 +1,4 @@
+#prep #docs #resources 
 # tournaments[^1]
 - keep notes on each match, how it went etc.
 - keep scores

@@ -1,10 +1,10 @@
+#docs #readme
 ___
-# This is an incomplete system, don't use it yet
-___
+this is an internal document, judges go look at the [[Index]]
 # Why obsidian? why git? etc.
 ##### The basics:
 - why git?: it's the best place I've ever found for storing, editing and collaborating on many concurrent text files. 
-- why obsidian?: it's a really well made organization system for plaintext markdown. 
+- why obsidian?: it's a very efficient organization system for plaintext markdown. 
 - why markdown?: plaintext. it's a rich text format that stores as human readable plaintext. and plaintext is forever. 
 ##### design sources && Inspo:
 - [this wonderful video by NoBoilerplate. among others of his](https://www.youtube.com/watch?v=WgV6M1LyfNY)
@@ -22,7 +22,12 @@ ___
 - one can use characters that are part of markdown syntax without them being interpreted as markdown syntax by -preceding them with a `\` backslash [^4]
 - links(on their own) just type the link: http://rotatingsandwitches.com
 - links with descriptions or inline: \[link name](https\:\/\/url.example.com)
-
+___
+# How to use this Notebook:
+- a bit more theory: This notebook is structured around issue pages in the /1.0 issues directory
+	- meticulously keeping track of issues faced, how they're approached and solved is very important not only for the notebook points but also for future reference (have you ever wondered why something was approached the way it was? well we should know why if we do it right)
+- most of the files in this vault should be issue notes.
+- 
 ___
 # Directories:
 /templates: various templates for types of notes. 
