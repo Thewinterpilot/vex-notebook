@@ -199,9 +199,7 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "vim-toggle:Toggle Vim Mode": false,
-      "periodic-notes:Open this week": false
+      "bases:Create new base": false
     }
   },
   "active": "579e3b06ddca529d",
