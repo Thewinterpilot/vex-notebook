@@ -1,7 +1,7 @@
 
 #docs #readme
 ___
-this is an internal document, judges go look at the [[Index]]
+this is an internal document, judges go look at the [Index](./Index.md)
 # Why obsidian? why git? etc.
 ##### The basics:
 - why git?: it's the best place I've ever found for storing, editing and collaborating on many concurrent text files. 
