@@ -26,8 +26,7 @@ ___
 # How to use this Notebook:
 - a bit more theory: This notebook is structured around issue pages in the /1.0 issues directory [^5]
 	- meticulously keeping track of issues faced, how they're approached and solved is very important not only for the notebook points but also for future reference (have you ever wondered why something was approached the way it was? well we should know why if we do it right)
-- There is a Todo file (I recommend keeping this open in a side panel)
-- 
+- I recommend keeping the [[Todo]] file open in the side bar
 ___
 # Directories:
 /templates: various templates for types of notes. 
