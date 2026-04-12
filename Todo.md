@@ -1,3 +1,7 @@
 #docs 
 - [ ] finish [[README]]
-- [ ] Create an [[Index]] page
+	- [ ] create [[README#How to use this Notebook]]
+- [ ] fill out index page- [ ] fill out index page
+	- [x] Create an [[Index]] page
+	- [ ] figure out exactly what i want to do with it
+	- [ ] do that idk
