@@ -5,3 +5,4 @@
 	- [x] Create an [[Index]] page
 	- [ ] figure out exactly what i want to do with it
 	- [ ] do that idk
+- [ ] create profiles for the team
