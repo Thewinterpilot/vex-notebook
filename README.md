@@ -1,5 +1,4 @@
-
-#docs #readme
+ #docs #readme
 ___
 this is an internal document, judges go look at the [Index](./Index.md)
 # Why obsidian? why git? etc.
