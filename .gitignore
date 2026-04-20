@@ -1,4 +1,3 @@
-/.obsidian/workspace.json
-/.obsidian/*
-/*.swp
+/.obsidian/**
+**/*.swp
 
