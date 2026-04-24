@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "0.2-PreBuild/announcementNotes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "announcementNotes"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "0.2-PreBuild/announcementNotes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of announcementNotes"
             }
           }
         ],
@@ -206,8 +206,10 @@
   },
   "active": "2ab905c0931f059f",
   "lastOpenFiles": [
-    "test.txt",
     "README.md",
+    "0.2-PreBuild/announcementNotes.md",
+    "0.2-PreBuild",
+    "test.txt",
     "Todo.md",
     "Index.md",
     "gitignore",
@@ -232,11 +234,9 @@
     "Untitled.base",
     "Untitled 1.base",
     "Thing.md",
-    "0.0-Images",
     "Pasted image 20260225175127.png",
     "Pasted image 20260225174925.png",
     "images/Pasted image 20260225174911.png",
-    "images",
     "Welcome.md"
   ]
 }
