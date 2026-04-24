@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.2-PreBuild/announcementNotes.md",
+                "file": "0.2-PreBuild/OverrideAnnouncementNotes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "announcementNotes"
+              "title": "OverrideAnnouncementNotes"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.2-PreBuild/announcementNotes.md",
+                "file": "0.2-PreBuild/OverrideAnnouncementNotes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of announcementNotes"
+              "title": "Outline of OverrideAnnouncementNotes"
             }
           }
         ],
@@ -206,11 +206,11 @@
   },
   "active": "2ab905c0931f059f",
   "lastOpenFiles": [
+    "Todo.md",
+    "0.2-PreBuild/OverrideAnnouncementNotes.md",
     "README.md",
-    "0.2-PreBuild/announcementNotes.md",
     "0.2-PreBuild",
     "test.txt",
-    "Todo.md",
     "Index.md",
     "gitignore",
     "0.0-Templates/Issue Template.md",
