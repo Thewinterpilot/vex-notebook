@@ -17,13 +17,14 @@ created 04/24/26
 - auton is important
 - sensing
 
-# what's important
+# important capabilities
 - sensors (colour and location(?))
 - sensors in auton
 - sensor in claw/hand
 - being at the end is important
 - torque is high priority, speed not so much
 - being able to flip pins
+- grab pins from the top alone
 - 
 
 # game:

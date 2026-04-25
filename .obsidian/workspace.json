@@ -27,43 +27,30 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://www.vexforum.com/t/review-my-idea-for-proof-of-concept/145747",
-                "title": "Review my idea for proof of concept - VEX V5 General Discussion - VEX Forum",
+                "url": "https://www.vexforum.com/t/2026-27-vex-v5-robotics-competition-game-override/145743",
+                "title": "2026-27 VEX V5 Robotics Competition Game: Override - VEX Robotics Competition Discussion / V5RC > Override (26/27) - VEX Forum",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Review my idea for proof of concept - VEX V5 General Discussion - VEX Forum"
+              "title": "2026-27 VEX V5 Robotics Competition Game: Override - VEX Robotics Competition Discussion / V5RC > Override (26/27) - VEX Forum"
             }
           },
           {
-            "id": "31ea32385391970e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "devisison of labour and who's who?.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "devisison of labour and who's who?"
-            }
-          },
-          {
-            "id": "f2928bbc45239d21",
+            "id": "10b65f42d8dba979",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://www.vexforum.com/hot",
-                "title": "Hot topics - VEX Forum",
+                "url": "https://www.vexforum.com/t/questions-about-past-structures/145667",
+                "title": "Questions About Past Structures - VEX V5 General Discussion / Technical Discussion - VEX Forum",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Hot topics - VEX Forum"
+              "title": "Questions About Past Structures - VEX V5 General Discussion / Technical Discussion - VEX Forum"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,13 +185,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.2-PreBuild/OverrideAnnouncementNotes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of OverrideAnnouncementNotes"
+              "title": "Outline"
             }
           }
         ],
@@ -246,10 +232,10 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "2ab905c0931f059f",
+  "active": "10b65f42d8dba979",
   "lastOpenFiles": [
-    "devisison of labour and who's who?.md",
     "0.2-PreBuild/OverrideAnnouncementNotes.md",
+    "devisison of labour and who's who?.md",
     "Todo.md",
     "README.md",
     "0.2-PreBuild",
