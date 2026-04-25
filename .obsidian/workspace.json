@@ -77,7 +77,8 @@
               "title": "Questions About Past Structures - VEX V5 General Discussion / Technical Discussion - VEX Forum"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Index"
+              "title": "Outline of README"
             }
           }
         ],
@@ -260,12 +261,13 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "2ab905c0931f059f",
+  "active": "2698c57cf460c279",
   "lastOpenFiles": [
-    "README.md",
     "Index.md",
-    "0.2-PreBuild/OverrideAnnouncementNotes.md",
+    "whos-who.md",
     "devisison of labour and who's who?.md",
+    "README.md",
+    "0.2-PreBuild/OverrideAnnouncementNotes.md",
     "Todo.md",
     "0.2-PreBuild",
     "test.txt",
