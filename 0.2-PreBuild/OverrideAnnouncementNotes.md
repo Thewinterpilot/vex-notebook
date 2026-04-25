@@ -15,7 +15,7 @@ created 04/24/26
 - 55watt drivetrain max
 - extending high is important
 - auton is important
-- sensing
+- sensing is important
 # important capabilities
 - sensors (colour and location(?))
 - sensors in auton
@@ -35,6 +35,10 @@ created 04/24/26
 ## how to hold pins?
 - you'll need a lot of manipulation
 - flip pins somehow
-## how to stay still
+- rollers? like on a vertical linear slide
+## how to stay still at the end
 - put something in the ground
 - high torque
+- drop something heavy onto the ground and tether yourself to it
+- grab onto the center
+- 
