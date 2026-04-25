@@ -29,7 +29,7 @@ ___
 	- meticulously keeping track of issues faced, how they're approached and solved is very important not only for the notebook points but also for future reference (have you ever wondered why something was approached the way it was? well we should know why if we do it right).
 - I recommend keeping the [[Todo]] file open in the side bar.
 - we will do sketches on paper, and import them here.
-- 
+- #### DON'T USE OBSIDIAN LINK SYNTAX PLEASE
 ___
 # Directories:
 /templates: various templates for types of notes. 
