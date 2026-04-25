@@ -49,8 +49,7 @@
               "title": "Questions About Past Structures - VEX V5 General Discussion / Technical Discussion - VEX Forum"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,12 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "0.2-PreBuild/OverrideAnnouncementNotes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of OverrideAnnouncementNotes"
             }
           }
         ],
@@ -232,12 +232,12 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "10b65f42d8dba979",
+  "active": "2ab905c0931f059f",
   "lastOpenFiles": [
+    "README.md",
     "0.2-PreBuild/OverrideAnnouncementNotes.md",
     "devisison of labour and who's who?.md",
     "Todo.md",
-    "README.md",
     "0.2-PreBuild",
     "test.txt",
     "Index.md",
