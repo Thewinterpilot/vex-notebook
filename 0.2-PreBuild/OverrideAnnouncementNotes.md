@@ -16,7 +16,6 @@ created 04/24/26
 - extending high is important
 - auton is important
 - sensing
-
 # important capabilities
 - sensors (colour and location(?))
 - sensors in auton
@@ -25,8 +24,6 @@ created 04/24/26
 - torque is high priority, speed not so much
 - being able to flip pins
 - grab pins from the top alone
-- 
-
 # game:
 - four types of pins
 - cups increase max pins
@@ -34,14 +31,10 @@ created 04/24/26
 - april tags in goals
 - 50in max height
 - flip toggle with motor that does something else too (?)
-- 
-
 # ideation:
 ## how to hold pins?
 - you'll need a lot of manipulation
 - flip pins somehow
-- 
 ## how to stay still
 - put something in the ground
 - high torque
-- 
