@@ -4,5 +4,6 @@
 - [ ] fill out index page- [ ] fill out index page
 	- [x] Create an [[Index]] page
 	- [ ] figure out exactly what i want to do with it
-	- [ ] do that idk
 - [ ] create profiles for the team
+- [ ] first designs for robot
+- [ ] priorities?
