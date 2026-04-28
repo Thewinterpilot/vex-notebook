@@ -28,7 +28,7 @@ ___
 - a bit more theory: This notebook is structured around issue pages in the /1.0 issues directory. [^5]
 	- meticulously keeping track of issues faced, how they're approached and solved is very important not only for the notebook points but also for future reference (have you ever wondered why something was approached the way it was? well we should know why if we do it right).
 - I recommend keeping the [[Todo]] file open in the side bar.
-- we will do sketches on paper, and import them here.
+- we will do sketches on paper and digitally, and import them here.
 - #### DON'T USE OBSIDIAN LINK SYNTAX PLEASE
 ___
 # Directories:
