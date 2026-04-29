@@ -1,5 +1,6 @@
 .obsidian/
 **/*.swp
 .trash/
-!.obsidian/[plugins]
-!.obsidian/[notes]
+!.obsidian/community-plugins.json
+!.obsidian/core-plugins.json
+!.obsidian/daily-notes.json
