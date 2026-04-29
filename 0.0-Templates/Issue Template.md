@@ -19,6 +19,6 @@
 *this is just engineering design process*
 
 ##### Test:
-*test solution in real game conditions (or something like them*
+*test solution in game conditions (or something like them*
 
 ___

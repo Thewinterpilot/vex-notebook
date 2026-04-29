@@ -1,7 +1,7 @@
 #prep #docs #resources 
 # tournaments[^1]
 - keep notes on each match, how it went etc.
-- keep scores
+- keep score
 - make a post tourney review
 - notes on notable teams and features
 - scout teams at tourneys
