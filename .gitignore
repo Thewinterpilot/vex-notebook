@@ -1,3 +1,5 @@
 .obsidian/
 **/*.swp
 .trash/
+!.obsidian/[plugins]
+!.obsidian/[notes]
