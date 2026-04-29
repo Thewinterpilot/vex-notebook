@@ -1,4 +1,4 @@
-.obsidian/
+.obsidian/*
 **/*.swp
 .trash/
 !.obsidian/community-plugins.json
