@@ -7,3 +7,4 @@
 - [x] create profiles for the team
 - [ ] first designs for robot
 - [ ] priorities?
+- [ ] drivetrain page
