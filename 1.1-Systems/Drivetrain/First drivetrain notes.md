@@ -21,7 +21,7 @@ Override is a major shift in the way VEX games work. Over the last few games the
 ### X-drive:
 **Pros
 - speed
-- maneuvrability
+- manoeuvrability
 **Cons
 - low torque
 
@@ -30,8 +30,9 @@ Override is a major shift in the way VEX games work. Over the last few games the
 - strafing
 **Cons
 - low precision
-- easily pushable
+- other robots can easily push in endgame
 
 # second day decision decision:
 We want to do a mecanum/omni wheel hybrid. 6x 4-inch wheels, (3 per side), mecanum in the corners and omni in the middle. We chose this because it gives us the manoeuvrability of omnidirectional motion, and the pushing power and grip of a 6-wheel drivetrain. We want to have one 5.5W motor per mecanum wheel, and one 11W motor per omni wheel. This adheres to the 44W limit we decided on to allow enough motors for the peripherals.
 The next stage is to start designing the drivetrain layout and deciding on dimensions and wheel placement.
+
