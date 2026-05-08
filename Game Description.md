@@ -1,6 +1,5 @@
 #art
 ![[Pasted image 20260428170357.png]]
-^ this is not visible to the rest of us, art you need to push this image ^
 ## Field Elements
 - 56 Cups
 - 63 Pins

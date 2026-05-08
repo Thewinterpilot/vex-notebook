@@ -1,4 +1,4 @@
-#drivetrain #winter 
+#drivetrain #winter #Raazi 
 # Drivetrain Ideas first day
 Override is a major shift in the way VEX games work. Over the last few games there has been a heavy focus on maneuvrability, driver skill, and teamwork with allies. This year is much more solo work, just four robots mostly doing their own thing. This means that precision is much more important than speed in the drivetrain. Similarly, the endgame requires a lot of grip and torque, so we're aiming for a high-torque, easily maneuvrable drivetrain this year.
 
