@@ -1,48 +1,48 @@
-# Who's who: team member bios
+#Raazi 
+## Who's who: team member bios
 
+### Art
 
-## Art
-
-### Roles:
+#### Roles:
 - designated driver
 - manual labourer
 - structural engineer
 - alliance scout
 
-### Skills:
+#### Skills:
 - devil's advocate
 - VEX experience
 - controller experience
 - observation
 
-## Harrison
+### Harrison
 
-### Roles:
+#### Roles:
 - manual labourer
 - secondary programmer
 - secondary scribe
 
-### Skills:
+#### Skills:
 - mechanical experience
 
-## Raazi
+### Raazi
 
-### Roles:
+#### Roles:
 - programmer
 - secondary driver
 - mechanical engineer
 
-### Skills:
+#### Skills:
 - perfectionism
 - programming experience
 - VEX experience
 
-## Winter
+### Winter
 
-### Roles:
+#### Roles:
 - chief scribe
 - programmer
-
-### Skills:
+#### Skills:
 - digital notetaking experience
+- git experience
 - researching
