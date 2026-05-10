@@ -1,7 +1,7 @@
 #docs 
 - [ ] first designs for robot
 	- [x] drivetrain concept ([[First_drivetrain_notes]])
-	- [ ] 
+	- [ ] start building idk
 - [ ] create export workflow
 - [ ] 
 - [x] finish [[0. README]]
