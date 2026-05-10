@@ -12,7 +12,8 @@ this is an internal document, judges go look at the [*Index*](./Index.md). This 
 
 ___
 # How to use obsidian Markdown
-### Markdown syntax examples: [^1]
+### Markdown syntax examples: 
+[^1]
 - Heading: `# heading` (the space is important, and for smaller headings add more #'s).
 - Italics: `*text*` or `_text_`.
 - bold: `**Bold**` or `__Bold__`.
@@ -43,9 +44,10 @@ ___
 	- why does it do it like that?
 	- what are two alternate ways to do the same and why don't they work?.
 ___
-# Issue Tracking[^2],[^3]
+# Issue Tracking
+[^2],[^3]
 each issue should have a note in the [/0.2 issues](./0.2\ issues) directory 
-![[Issue Template]]
+see: [[Issue Template]]
 
 ___
 # Footnotes:
