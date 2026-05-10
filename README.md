@@ -1,6 +1,6 @@
  #docs #readme
 ___
-this is an internal document, judges go look at the [*Index*](./Index.md). This will guide you through navigating our notes.
+this is an internal document, judges go look at the [[Index]] . This will guide you through navigating our notes.
 ## Why obsidian? why git? etc.
 ##### The basics:
 - why git?: it's the best place I've ever found for storing, editing and collaborating on many concurrent text files. 
@@ -32,9 +32,12 @@ ___
 - we will do sketches on paper and digitally, and import them here.
 ___
 ## Directories:
-/templates: various templates for types of notes. 
-/issues: go to [[#Issue Tracking]].
-/partsAndSystems: explanations and documentation of different systems. [^2]
+/0.0-Images: images go here woahhh
+/0.0-Templates: various templates for types of notes. 
+/0.1-Resources: internal resources
+/1.0-DailyNotes: daily notes! these are just kinda rough notes and are supposed to be refined later
+/1.1-Systems: explanations and documentation of different systems. [^2]
+/\[undefined]-Issues: go to [[#Issue Tracking]].
 ___
 ## How to document systems:
 - Take lots of pictures.
@@ -46,7 +49,7 @@ ___
 ___
 ## Issue Tracking
 [^2],[^3]
-each issue should have a note in the [/0.2 issues](./0.2\ issues) directory 
+each issue should have a note in the issues directory 
 see: [[Issue Template]]
 
 ___
