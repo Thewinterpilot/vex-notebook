@@ -1,4 +1,4 @@
- #docs #readme
+#docs #readme
 ___
 this is an internal document, judges go look at the [[Index]] . This will guide you through navigating our notes.
 ## Why obsidian? why git? etc.
