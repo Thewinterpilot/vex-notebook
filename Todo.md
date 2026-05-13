@@ -1,9 +1,9 @@
 #docs 
 - [ ] first designs for robot
 	- [x] drivetrain concept ([[First_drivetrain_notes]])
-	- [ ] start building idk
-- [ ] create export workflow
-- [ ] 
+	- [ ] 
+- [x] create export workflow
+- [ ] improve export workflow with scripts(?)
 - [x] finish [[0. README]]
 	- [x] create [[0. README#How to use this Notebook]]
 - [x] fill out index page- [ ] fill out index page
