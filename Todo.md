@@ -1,6 +1,7 @@
 #docs 
 ongoing: daily notes
 - [ ] improve export workflow with scripts(?)
+- [ ] start code
 - [ ] [[Engineering Design Process]]
 - [x] finish [[0. README]]
 	- [x] create [[0. README#How to use this Notebook]]

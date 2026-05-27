@@ -2,9 +2,10 @@
 ### Index:
 > [[Game Description]]
 > [Team descriptions][whos-who]
-> [[First_drivetrain_notes]]
+> [[First drivetrain notes]]
 
 ### Daily Notes: 
 (these are just scratchpads we make every day and then turn into more fully fleshed out notes and concepts later)
 > [[26-05-05]]
 > [[26-04-28]]
+> [[26-05-26]]
