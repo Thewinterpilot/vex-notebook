@@ -2,6 +2,7 @@
 ongoing: daily notes
 - [ ] improve export workflow with scripts(?)
 - [ ] start code
+- [ ] design consideration template
 - [ ] [[Engineering Design Process]]
 - [x] finish [[0. README]]
 	- [x] create [[0. README#How to use this Notebook]]
