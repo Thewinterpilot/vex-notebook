@@ -51,3 +51,5 @@ rightRearWheelSpin = forward + sideways - turn
 leftFrontWheelSpin = forward + sideways + turn
 leftRearWheelSpin = forward - sideways - turn
 ```
+
+![[Pasted image 20260602182011.png]]
