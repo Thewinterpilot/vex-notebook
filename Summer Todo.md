@@ -1,0 +1,29 @@
+- [ ] ongoing: optimize code
+- [ ] figure out april tags
+- [ ] figure out how to fit a double reverse 
+# Summer pack list (TEST EVERYTHING)
+- [x] spare wheels
+- [x] 4 batteries, two chargers
+- [x] extra brain
+- [x] cables for everything
+- [x] 2hole c channel
+- [x] 3hole c channel
+- [x] flat metal
+- [x] axles
+- [x] 3 controllers
+- [x] four 11watt motors
+- [x] two half 5.5watt motors
+- [x] 2 of each cartrage
+- [x] 1 full pneumatics kit w pistons
+- [x] two wreches
+- [x] two large allen keys
+- [x] two small allen keys
+- [x] two large drill bits
+- [x] two small drill bits
+- [x] two micro usb cables (ew)
+- [x] flush cutters
+- [x] zip tie cutters
+- [x] ratchet set
+- [x] flex wheels
+- [x] intake rollers
+- [ ] 
