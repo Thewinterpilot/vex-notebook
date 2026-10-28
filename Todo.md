@@ -7,7 +7,7 @@ ongoing: daily notes
 - [x] finish [[0. README]]
 	- [x] create [[0. README#How to use this Notebook]]
 - [x] fill out index page- [ ] fill out index page
-	- [x] Create an [[Index]] page
+	- [x] Create an [[index]] page
 	- [x] figure out exactly what i want to do with it
 - [x] create profiles for the team
  - [x] drivetrain page

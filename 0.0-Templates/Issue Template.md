@@ -20,5 +20,3 @@
 
 ##### Test:
 *test solution in game conditions (or something like them*
-
-___

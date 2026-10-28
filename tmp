@@ -1,0 +1,12 @@
+import random
+def abc(inputHeading):
+
+	outputHeading = inputHeading
+	if inputHeading > 180:
+		outputHeading = -180 + (outputHeading - 180)
+	return outputHeading
+
+
+for i in range(30):
+	num = random.randint(0,360)
+	print(str(num), abc(num))

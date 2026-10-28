@@ -26,7 +26,7 @@
 - mechanical experience
 
 ### Raazi
-
+He/Him
 #### Roles:
 - programmer
 - secondary driver
@@ -38,7 +38,7 @@
 - VEX experience
 
 ### Winter
-
+It/They/Fae
 #### Roles:
 - chief scribe
 - programmer

@@ -1,6 +1,6 @@
 #docs #readme
 ___
-this is an internal document, judges go look at the [[Index]] . This will guide you through navigating our notes.
+this is an internal document, judges go look at the [[index]] . This will guide you through navigating our notes.
 ## Why obsidian? why git? etc.
 ##### The basics:
 - why git?: it's the best place I've ever found for storing, editing and collaborating on many concurrent text files. 

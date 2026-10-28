@@ -1,7 +1,7 @@
 #winter #docs #export
 ### Index:
-> [[Game Description]]
-> [Team descriptions][whos-who]
+> [Game Description](./Game Description.md)
+> [Team descriptions](./whos-who.md)
 > [[First drivetrain notes]]
 
 ### Daily Notes: 
