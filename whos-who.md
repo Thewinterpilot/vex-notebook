@@ -14,7 +14,12 @@
 - VEX experience
 - controller experience
 - observation
-
+### Kevin
+He/Him
+#### Roles:
+- intern
+#### Skills:
+- has hands
 ### Harrison
 
 #### Roles:
@@ -38,11 +43,10 @@ He/Him
 - VEX experience
 
 ### Winter
-It/They/Fae
+It/They
 #### Roles:
 - chief scribe
 - programmer
 #### Skills:
-- digital notetaking experience
+- digital note-taking experience
 - git experience
-- researching

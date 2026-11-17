@@ -1,5 +1,5 @@
 #prep #docs #resources 
-# tournaments[^1]
+# tournaments
 - keep notes on each match, how it went etc.
 - keep score
 - make a post tourney review
@@ -13,19 +13,13 @@
 - sketch
 - build
 - test (loop!!)
-- keep [[Push Back bot takeaways]] note
 # general format
 - CANVASES
 - vex site has a template
 - keep schematics for brain && schematics
 - try to keep wiring schematics
 - keep code
-- # COMMENTS GIRL
-	- why did you do this and what did you do?
 - map auton route
 - videos of auton?
 - daily notes
 - directories for various things with mechanisms
-- 
-
-[^1]: how many are there?

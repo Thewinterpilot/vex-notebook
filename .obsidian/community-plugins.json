@@ -1,4 +1,7 @@
 [
   "auto-template-trigger",
-  "webpage-html-export"
+  "webpage-html-export",
+  "obsidian-link-converter",
+  "obsidian-pandoc",
+  "better-export-pdf"
 ]

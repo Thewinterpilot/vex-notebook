@@ -1,9 +1,10 @@
 #docs 
 ongoing: daily notes
 - [ ] improve export workflow with scripts(?)
-- [x] start code
+- [ ] write [[Noteboox export process]]
+- [ ] insert photos into [[dr4b]]
 - [ ] design consideration template
-- [ ] [[Engineering Design Process]]
+- [x] [[Engineering Design Process]]
 - [x] finish [[0. README]]
 	- [x] create [[0. README#How to use this Notebook]]
 - [x] fill out index page- [ ] fill out index page

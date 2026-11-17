@@ -1,6 +1,7 @@
 - [ ] ongoing: optimize code
 - [ ] figure out april tags
-- [ ] figure out how to fit a double reverse 
+- [ ] figure out how to fit a double reverse 4bar
+so we did...none of those
 # Summer pack list (TEST EVERYTHING)
 - [x] spare wheels
 - [x] 4 batteries, two chargers
